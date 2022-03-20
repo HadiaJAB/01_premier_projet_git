@@ -5,6 +5,6 @@ public class Employe{
 	private String mail;
 	private int age;
 	private String tel;
-	
+	private int age;
 	
 }
